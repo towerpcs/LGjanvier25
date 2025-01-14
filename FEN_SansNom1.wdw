@@ -54,6 +54,23 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : LIB_User_
+    identifier : 0x2786710500b18669
+    internal_properties : HgAAAB4AAAB0n7MwfAWtFtnbiO4b7Cu/pHSBASqSrHUCQ1Yzaw2k1sZ8aJaN7z0XjHEbU3/Zt8vuRppPVGQHxEf6ZwzL0mJjtXHzSrMYRwxppIOn6K6PCmRqKJW4U9b1TC+rLMYEk51qrtwVY4RHce1AuB1itYE5iMQGyS4GCGUDufjn8g9EvweTY/35MEvIlAeRb5tvUNYFWLIMiuOWSuqN4szyNJAH3tIMhgw/SXX/didJYpiV+X7O2OmZTKVYxcPoZLJwo3Lv9UuTGfv6rs4qDQjgKKYzclP74UDWAKeDcpHwohEhZrpQDWO+mZcjrqprTtIq6A3nyXBtmD10PTAxntuAbhXKMqSeDAVKBiJd9npfRLeG/3VMLcRCj/Gw4kvbuLMIyRRLr7a9HcF6B06JXKcwEYykXsQo5BusbhavlEvYsBoWGUfWI+dT
+    properties :
+     x : 219
+     y : 106
+     width : 133
+     height : 26
+     caption : User 2
+     tab_stop : 0
+     take_focus : 0
+    style : {}
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
