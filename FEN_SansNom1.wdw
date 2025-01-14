@@ -71,6 +71,38 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : SAI_User_1
+    identifier : 0x278671e500bdf205
+    internal_properties : HgAAAB4AAADmhpROfrvkltJKzA4zmsm4lwDlKQY+pPpSv2Rtl60EB2VLCrVCKR9tegUsApj3dtofi1NTG+idZClqBi5vDDYRN7QZOHy47fv+SgiIWnabT/6w06/Zj336X2uvOGVVUlSp3bGxBgRqC6cUgSovH55ZkhyVZTtXjz2oTiVoZvMWreK479kqdagTjH4U3X0Eiklvnv85FG2Ge6Audpk0yWsFhE1RIEycm0EWf5KPGwX7HI7lnmtu8pwqsRsqqMZ6TT1CH0MWE4IlZnA1Keh6e6dZ9bDJFZ6S47rQfdWiptVplnYACzW3Dw+D7tuM8RLGJ0Lp3tb/X80YGsLPfdwo3BTOM7YIYgXihhzj52rBw6d1YpoY8Is50IRlJNLmepmIbiahPqZ06yXl+GhwvM2O69TWah0h6yRHv4u/iq3lMTw5e2vgYgJbqdkoqvSm7oH4q9F+zjE0FfrPG+b/eWF+yT8thIpdMnJhJFzbjh1mKrF0DAvAohffDWs3K7RSNyRDQ7NBIwr4T9iSU57v2ab6WSjfAUhr1WwGJfrkw7L037Ohf4SpPGmVuwxL1vndKpJ7pU98J8Eddzm7GBRmKkNa/AbHMnUVbKjGW18yDB3WqHDQV5R8QX/uzH81IGV5p/RRY/2/R8C/Qzo7A/LQs0SPy9r0RRl5UNWf7ZURi26KbDaIAufD7k0iG4gvjFl1L22x86yxN+YV09A2BeEbHadTE/ahP+vhRMgWcFRilXLjRe0D3i0DbkSA5iMyMYtQhWWR8qTepBAkS9Qdwg5F2QqpNUHE2a5a7DnJetYvTYxV0VFt6338h7KszL1Zigzh/syPCB6WyLNGfHKnsJ4ZNvb4bLvZm/ovg0K6hUBclGqCqGsxzf+Lhh0AnOe18Wyx/0ZhUl9OCSoSG7omtlCs0Zhd1hPgRqamtUmwUN6Il6ez6Dm1ufS3hnA0RajzJ9NXasVC3ICiB781PT6Z0aNmvJJ/f6aC2LggsEy0PmJhhCPhHJaI6ii7dWtpRvkrlcfu7FAXpLCpSRtp9DsyGcXvO0EyHF32P6DHhoBaFlfxo7/8jbj9W8GKqju/qkyKXp5CFxUC2cV2EbvSHQuTkkrbss+o0Y5PMoK19BhAwoqFMjLI0RntASVX45HcWZWnG7STnKqAEEsvh0mhrjZOFVz3JsSohsU/BIZNkLo+Ry3tA3Aou6O/NODCgsHQjIBYAubHkbJlmoUTIY0ARQH1rSus+m6wnojc9ffL2sGrn/Uaa+dNF7Idmq+RcNUTJWuZYxKDpcLfx7d6WdDTzm+dvROQCq3u2ySnkays22ivOwcB18kr5m2XXmB1Bomk3w5a3yMZAbFmCf1eZZiThxJR89xemiFdSg==
+    properties :
+     x : 83
+     y : 204
+     width : 262
+     height : 30
+     caption : User 1
+     accelerator_key : 65535
+     tab_order : 1
+    style : {}
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        type : 338
+        enabled : false
+      -
+        type : 339
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
